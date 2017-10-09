@@ -1,0 +1,495 @@
+[ 2017-04-07T10:37:12+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012105s ]
+
+[ 2017-04-07T10:37:23+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003137s ]
+
+[ 2017-04-07T10:38:20+08:00 ] 127.0.0.1 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004530s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004776s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+
+[ 2017-04-07T11:17:29+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.0013611384201794863&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003616s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003818s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003460s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:17:32+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.33117428654804826&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002734s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003020s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002022s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:17:33+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.6901723889168352&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002526s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002804s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001666s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:17:33+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.450678936438635&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002190s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002431s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:17:35+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.014285550219938159&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002296s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002552s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:17:35+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.8402576106600463&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001769s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001978s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:19:04+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.2544136759825051&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001845s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002055s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:19:05+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.7591268310789019&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002154s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002436s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:19:05+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.5845270326826721&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001873s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002121s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:19:07+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.018161930609494448&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001725s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001918s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001566s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:19:08+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.8402765248902142&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002691s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002961s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001752s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:19:08+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.6814193590544164&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002525s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002802s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001799s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:19:08+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.5869195060804486&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002005s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002202s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:21:40+08:00 ] 127.0.0.1 /www/23qi/index.php/App/registerg%20?phone_data=13003829382&password_data=123&t=0.13557516294531524&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003485s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003707s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003128s ]
+ERR: 非法操作:registerg
+
+[ 2017-04-07T11:49:43+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004105s ]
+
+[ 2017-04-07T11:57:07+08:00 ] 127.0.0.1 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123&t=0.15134217822924256&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004199s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004534s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003650s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.028178s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13003829382') [ RunTime:0.010905s ]
+
+[ 2017-04-07T12:12:08+08:00 ] 127.0.0.1 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006228s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006850s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005268s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.027511s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.007194s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T12:16:09+08:00 ] 127.0.0.1 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006323s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006532s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007125s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.025690s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.006362s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T12:16:51+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008466s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008805s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005010s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.030785s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.007572s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T12:17:59+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123&t=0.6024805924389511&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006265s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006567s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003117s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.029870s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13003829382') [ RunTime:0.006750s ]
+
+[ 2017-04-07T14:20:50+08:00 ] 127.0.0.1 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008121s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008895s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007007s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.023720s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.007142s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T14:50:16+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010717s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011515s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008536s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.030482s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.006180s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T14:53:00+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009178s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009948s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005858s ]
+
+[ 2017-04-07T14:55:38+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123&t=0.027287066215649247&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006222s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006574s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011216s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.035168s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13003829382') [ RunTime:0.005733s ]
+
+[ 2017-04-07T14:57:54+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003495s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003694s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003168s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.025016s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.006698s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T14:57:55+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002484s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002756s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002160s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.030461s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.006226s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T15:30:20+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010149s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011883s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005367s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.025807s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.006762s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T15:35:04+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123&t=0.04212272493168712&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003631s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003845s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005468s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.028241s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13003829382') [ RunTime:0.005489s ]
+
+[ 2017-04-07T15:35:33+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123&t=0.6797890982124954&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002477s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002651s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007334s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.018955s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13003829382') [ RunTime:0.007225s ]
+
+[ 2017-04-07T15:40:30+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007806s ]
+
+[ 2017-04-07T15:41:08+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005125s ]
+
+[ 2017-04-07T15:41:56+08:00 ] 127.0.0.1 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.041551s ]
+INFO: [ route_check ] --END-- [ RunTime:0.041880s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.034619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038255s ]
+
+[ 2017-04-07T15:42:22+08:00 ] 127.0.0.1 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015103s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016287s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017732s ]
+
+[ 2017-04-07T15:43:49+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005011s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005281s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005161s ]
+
+[ 2017-04-07T15:43:52+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002685s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002909s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004965s ]
+
+[ 2017-04-07T15:43:54+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004812s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005098s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005402s ]
+
+[ 2017-04-07T15:43:55+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003954s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004211s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005945s ]
+
+[ 2017-04-07T15:54:35+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123&t=0.31372618465684354&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008263s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009034s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007280s ]
+
+[ 2017-04-07T15:56:10+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=12038290389&password_data=123&t=0.03477664943784475&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003453s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003806s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003075s ]
+
+[ 2017-04-07T15:58:30+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006858s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007208s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006568s ]
+
+[ 2017-04-07T15:58:32+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002732s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003020s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001834s ]
+
+[ 2017-04-07T15:58:48+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010140s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011260s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006944s ]
+NOTIC: [8] Undefined index:  phone_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 7 行.
+NOTIC: [8] Undefined index:  password_data C:\AppServ\www\www\23qi\WEB\Lib\Action\AppAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.029607s ]
+SQL: INSERT INTO `user` (`phone`) VALUES (null) [ RunTime:0.006170s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`phone`) VALUES (null)
+
+[ 2017-04-07T15:58:52+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=12038290389&password_data=123&t=0.005691939033567905&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008170s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008459s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006337s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.019184s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('12038290389') [ RunTime:0.006759s ]
+
+[ 2017-04-07T16:05:13+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003928374&password_data=123456&t=0.630280208773911&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007686s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007976s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007703s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.036276s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13003928374') [ RunTime:0.007901s ]
+
+[ 2017-04-07T16:20:16+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=12038290389&password_data=123456&t=0.5726161741185933&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006159s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006458s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006883s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.045088s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12038290389' ) LIMIT 1   [ RunTime:0.007991s ]
+
+[ 2017-04-07T17:16:11+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123456&t=0.8652981363702565&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006592s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006845s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007662s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.026105s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='13003829382' ) LIMIT 1   [ RunTime:0.006710s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13003829382') [ RunTime:0.002090s ]
+
+[ 2017-04-07T17:16:39+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123456&t=0.23892139713279903&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003633s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003908s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006580s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.023668s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='13003829382' ) LIMIT 1   [ RunTime:0.006875s ]
+
+[ 2017-04-07T17:18:57+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829383&password_data=1234&t=0.09339119517244399&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003988s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004217s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004626s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.020604s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='13003829383' ) LIMIT 1   [ RunTime:0.005909s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13003829383') [ RunTime:0.001369s ]
+
+[ 2017-04-07T17:19:09+08:00 ] 219.229.128.92 /www/23qi/index.php/App/register?phone_data=13003829382&password_data=123456&t=0.5786518522072583&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003253s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003467s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006418s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.037836s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='13003829382' ) LIMIT 1   [ RunTime:0.007861s ]
+

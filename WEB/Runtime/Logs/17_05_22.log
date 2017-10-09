@@ -1,0 +1,100 @@
+[ 2017-05-22T11:03:39+08:00 ] 219.229.128.93 /www/23qi/index.php/App/feedback?phone=12345678908&content=%E8%BF%98%E9%9C%80%E8%A6%81%E6%94%B9%E5%96%84&t=0.22413108660839498&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006784s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007785s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005851s ]
+SQL: SHOW COLUMNS FROM `feedback` [ RunTime:0.058510s ]
+SQL: INSERT INTO `feedback` (`phone`,`content`,`time`) VALUES ('12345678908','还需要改善',1495422219) [ RunTime:0.015115s ]
+
+[ 2017-05-22T11:28:30+08:00 ] 219.229.128.93 /www/23qi/index.php/App/version?t=0.08251949911937118&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007523s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007791s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006403s ]
+SQL: SHOW COLUMNS FROM `version` [ RunTime:0.025863s ]
+SQL: SELECT * FROM `version` ORDER BY id desc LIMIT 1   [ RunTime:0.007426s ]
+
+[ 2017-05-22T11:29:38+08:00 ] 219.229.128.93 /www/23qi/index.php/App/version?t=0.0809006781782955&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005450s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005651s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006523s ]
+SQL: SHOW COLUMNS FROM `version` [ RunTime:0.032689s ]
+SQL: SELECT * FROM `version` ORDER BY id desc LIMIT 1   [ RunTime:0.009269s ]
+
+[ 2017-05-22T11:32:48+08:00 ] 219.229.128.93 /www/23qi/index.php/App/version?t=0.6038418470416218&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005320s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005535s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004979s ]
+SQL: SHOW COLUMNS FROM `version` [ RunTime:0.026288s ]
+SQL: SELECT * FROM `version` ORDER BY id desc LIMIT 1   [ RunTime:0.008712s ]
+
+[ 2017-05-22T11:32:55+08:00 ] 219.229.128.93 /www/23qi/index.php/App/version?t=0.1770199928432703&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007410s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007839s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006743s ]
+SQL: SHOW COLUMNS FROM `version` [ RunTime:0.026079s ]
+SQL: SELECT * FROM `version` ORDER BY id desc LIMIT 1   [ RunTime:0.007931s ]
+
+[ 2017-05-22T11:34:00+08:00 ] 219.229.128.93 /www/23qi/index.php/App/version?t=0.348654666217044&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008371s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008662s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007242s ]
+SQL: SHOW COLUMNS FROM `version` [ RunTime:0.019514s ]
+SQL: SELECT * FROM `version` ORDER BY id desc LIMIT 1   [ RunTime:0.003727s ]
+
+[ 2017-05-22T11:34:04+08:00 ] 219.229.128.93 /www/23qi/index.php/App/version?t=0.34077984490431845&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006873s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005476s ]
+SQL: SHOW COLUMNS FROM `version` [ RunTime:0.027087s ]
+SQL: SELECT * FROM `version` ORDER BY id desc LIMIT 1   [ RunTime:0.008061s ]
+
+[ 2017-05-22T11:34:10+08:00 ] 219.229.128.93 /www/23qi/index.php/App/version?t=0.1018617763184011&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005092s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005286s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006548s ]
+SQL: SHOW COLUMNS FROM `version` [ RunTime:0.026353s ]
+SQL: SELECT * FROM `version` ORDER BY id desc LIMIT 1   [ RunTime:0.008229s ]
+
+[ 2017-05-22T11:38:07+08:00 ] 219.229.128.93 /www/23qi/index.php/App/version?t=0.7022850981447846&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006987s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007244s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005491s ]
+SQL: SHOW COLUMNS FROM `version` [ RunTime:0.029564s ]
+SQL: SELECT * FROM `version` ORDER BY id desc LIMIT 1   [ RunTime:0.007966s ]
+
+[ 2017-05-22T21:30:00+08:00 ] 219.229.128.93 /www/23qi/index.php/App/add_topic?phone=null&content=%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E6%9D%A1&img=&t=0.08759923046454787&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004908s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005118s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006141s ]
+SQL: SHOW COLUMNS FROM `topic` [ RunTime:0.024207s ]
+SQL: INSERT INTO `topic` (`phone`,`content`,`img`,`time`) VALUES ('null','这是第一条','',1495459800) [ RunTime:0.007974s ]
+

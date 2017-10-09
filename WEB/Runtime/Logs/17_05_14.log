@@ -1,0 +1,5 @@
+[ 2017-05-14T10:57:11+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004378s ]
+

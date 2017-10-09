@@ -1,0 +1,399 @@
+[ 2017-05-18T14:47:29+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.40248407307080925&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008046s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008753s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008117s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.044212s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008422s ]
+
+[ 2017-05-18T14:49:35+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.799250707263127&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006526s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006752s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007361s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.028537s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.007765s ]
+
+[ 2017-05-18T14:54:51+08:00 ] 219.229.128.93 /www/23qi/index.php/App/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008261s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008851s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008214s ]
+ERR: 非法操作:add
+
+[ 2017-05-18T14:58:12+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.830934053985402&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007146s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007432s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014171s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.030488s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009766s ]
+
+[ 2017-05-18T15:03:25+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12390298830&password_data=123&t=0.3670812442433089&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008183s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008554s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008547s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.055781s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12390298830' ) LIMIT 1   [ RunTime:0.009256s ]
+
+[ 2017-05-18T15:03:43+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.4813174793962389&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007085s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007388s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006714s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.032128s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008931s ]
+
+[ 2017-05-18T15:04:31+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123123&t=0.9092307521495968&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008391s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008698s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013751s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.025532s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009040s ]
+
+[ 2017-05-18T15:05:02+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.8302013254724443&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005844s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006088s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007035s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.031903s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008473s ]
+
+[ 2017-05-18T15:05:05+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.6578648169524968&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006461s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006695s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006543s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.031166s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008463s ]
+
+[ 2017-05-18T15:05:05+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.5079795334022492&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006908s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007162s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006114s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.026915s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009916s ]
+
+[ 2017-05-18T15:05:05+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.4876004974357784&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005767s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005967s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006087s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.026345s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008369s ]
+
+[ 2017-05-18T15:05:06+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.9477056409232318&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007417s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007614s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006341s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.022035s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008277s ]
+
+[ 2017-05-18T15:05:23+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.22146378736943007&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006684s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006930s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006601s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.031468s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.007672s ]
+
+[ 2017-05-18T15:05:24+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.4492795916739851&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008738s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008942s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005051s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.021652s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.007159s ]
+
+[ 2017-05-18T15:05:24+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.9462704274337739&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006776s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007018s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006870s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.047759s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008454s ]
+
+[ 2017-05-18T15:05:27+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.1882022877689451&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006053s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006298s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008334s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.025177s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.010513s ]
+
+[ 2017-05-18T15:05:29+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.3465914176777005&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009625s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009972s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007193s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.028742s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009998s ]
+
+[ 2017-05-18T15:05:32+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123123&t=0.911456435918808&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005949s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006192s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007544s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.024850s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008414s ]
+
+[ 2017-05-18T15:05:41+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.3368107706774026&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006937s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007171s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005199s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.034776s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009952s ]
+
+[ 2017-05-18T15:06:37+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.3912137516308576&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006354s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006557s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006782s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.025781s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009470s ]
+
+[ 2017-05-18T15:13:56+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.4835877171717584&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008103s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008363s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007913s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.037603s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009800s ]
+
+[ 2017-05-18T15:13:59+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.47407536557875574&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007232s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007510s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009308s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.027590s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009261s ]
+
+[ 2017-05-18T15:18:51+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login?phone_data=12345678908&password_data=123&t=0.33595062023960054&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008205s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008492s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005874s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.044890s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008945s ]
+
+[ 2017-05-18T15:19:55+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.3035704146604985&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006658s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006867s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006032s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.025256s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009360s ]
+
+[ 2017-05-18T15:24:21+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.007692600134760141&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007517s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007810s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007187s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.023539s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009240s ]
+
+[ 2017-05-18T15:47:21+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.5026093262713403&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006865s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007108s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007294s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.031467s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008488s ]
+
+[ 2017-05-18T15:47:37+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.9124963416252285&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008619s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008839s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005869s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.022696s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008342s ]
+
+[ 2017-05-18T15:48:05+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.3067463398911059&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005613s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005851s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005295s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.021694s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.007828s ]
+
+[ 2017-05-18T15:48:50+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.8636550407391042&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007708s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008012s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005420s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.020734s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.007005s ]
+
+[ 2017-05-18T15:48:59+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.27778700296767056&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006274s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006564s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005902s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.031710s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.007773s ]
+
+[ 2017-05-18T15:50:32+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.3642839970998466&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011173s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011443s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008075s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.024368s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008318s ]
+
+[ 2017-05-18T15:51:38+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.6560791879892349&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007422s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007663s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007478s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.030629s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008396s ]
+
+[ 2017-05-18T15:52:23+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.47732051461935043&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012263s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012561s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008912s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.028931s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009462s ]
+
+[ 2017-05-18T15:53:11+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.4894966797437519&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005988s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006207s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006266s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.028938s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008209s ]
+
+[ 2017-05-18T15:54:41+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.7170066654216498&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007249s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007486s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006299s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.029656s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009323s ]
+
+[ 2017-05-18T15:55:19+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.4721466724295169&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006932s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007239s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006361s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.032967s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009985s ]
+
+[ 2017-05-18T15:55:56+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.5744935011025518&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005994s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006221s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007440s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.021237s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008427s ]
+
+[ 2017-05-18T15:56:13+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.5885101216845214&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007074s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007327s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007192s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.034960s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009722s ]
+
+[ 2017-05-18T15:56:35+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.38226754195056856&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008650s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008971s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006737s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.023314s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008067s ]
+
+[ 2017-05-18T15:58:22+08:00 ] 219.229.128.93 /www/23qi/index.php/App/get_user_info?phone=12345678908&t=0.21833518147468567&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005836s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006077s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007207s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.032883s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009734s ]
+

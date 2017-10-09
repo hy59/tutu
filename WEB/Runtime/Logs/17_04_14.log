@@ -1,0 +1,106 @@
+[ 2017-04-14T15:38:13+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005655s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006395s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004523s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.037279s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13029032390') [ RunTime:0.008254s ]
+
+[ 2017-04-14T15:38:22+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004145s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004372s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003046s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.023209s ]
+SQL: INSERT INTO `user` (`phone`) VALUES ('13029032390') [ RunTime:0.006381s ]
+
+[ 2017-04-14T15:43:08+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006279s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006609s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005177s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.026369s ]
+SQL: INSERT INTO `user` (`phone`,`password`) VALUES ('13029032390','123') [ RunTime:0.005465s ]
+
+[ 2017-04-14T15:46:17+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003651s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003844s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003182s ]
+
+[ 2017-04-14T15:46:39+08:00 ] 219.229.128.93 /www/23qi/index.php/App/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006625s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006831s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005394s ]
+
+[ 2017-04-14T15:46:43+08:00 ] 219.229.128.93 /www/23qi/index.php/App/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005046s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005229s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004802s ]
+
+[ 2017-04-14T15:46:44+08:00 ] 219.229.128.93 /www/23qi/index.php/App/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005790s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006039s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004997s ]
+
+[ 2017-04-14T15:46:46+08:00 ] 219.229.128.93 /www/23qi/index.php/App/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005787s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005989s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004819s ]
+
+[ 2017-04-14T15:47:05+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005595s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005790s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006154s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.026598s ]
+SQL: INSERT INTO `user` (`phone`,`password`) VALUES ('13029032390','123') [ RunTime:0.005002s ]
+
+[ 2017-04-14T15:47:21+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001687s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001864s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.019368s ]
+SQL: INSERT INTO `user` (`phone`,`password`) VALUES ('13029032390','123') [ RunTime:0.006535s ]
+
+[ 2017-04-14T15:49:06+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005790s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006066s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005493s ]
+
+[ 2017-04-14T15:51:52+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005103s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005314s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005079s ]
+

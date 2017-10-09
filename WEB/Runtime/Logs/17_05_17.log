@@ -1,0 +1,73 @@
+[ 2017-05-17T09:54:22+08:00 ] 219.229.128.93 /www/23qi/index.php/App/register?phone_data=12345678908&password_data=123&t=0.11041317647323012&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004773s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005299s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003953s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.038667s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009503s ]
+SQL: INSERT INTO `user` (`phone`,`password`) VALUES ('12345678908','202cb962ac59075b964b07152d234b70') [ RunTime:0.001852s ]
+
+[ 2017-05-17T16:06:31+08:00 ] 219.229.128.93 /www/23qi/index.php/App/register?phone_data=12345678908&password_data=123&t=0.8999658063985407&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007158s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007696s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005800s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.022649s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.007150s ]
+
+[ 2017-05-17T16:06:59+08:00 ] 219.229.128.93 /www/23qi/index.php/App/register?phone_data=12345678908&password_data=12312&t=0.749068750301376&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006736s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006935s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005744s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.028425s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.009121s ]
+
+[ 2017-05-17T16:10:11+08:00 ] 219.229.128.93 /www/23qi/index.php/App/register?phone_data=12345678908&password_data=123&t=0.49220726918429136&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008514s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008766s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008319s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.025972s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.008065s ]
+
+[ 2017-05-17T17:25:52+08:00 ] 219.229.128.93 /www/23qi/index.php/App/register?phone_data=13029083990&password_data=123&t=0.26978046214208007&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006072s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006769s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006055s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.027713s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='13029083990' ) LIMIT 1   [ RunTime:0.007783s ]
+SQL: INSERT INTO `user` (`phone`,`password`) VALUES ('13029083990','202cb962ac59075b964b07152d234b70') [ RunTime:0.007735s ]
+
+[ 2017-05-17T17:30:17+08:00 ] 219.229.128.93 /www/23qi/index.php/App/register?phone_data=12093909883&password_data=123&t=0.26951975165866315&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006413s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006631s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004842s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.034672s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12093909883' ) LIMIT 1   [ RunTime:0.008318s ]
+SQL: INSERT INTO `user` (`phone`,`password`) VALUES ('12093909883','202cb962ac59075b964b07152d234b70') [ RunTime:0.001561s ]
+
+[ 2017-05-17T17:52:04+08:00 ] 219.229.128.93 /www/23qi/index.php/App/register?phone_data=12093909883&password_data=123&t=0.2290474211331457&package_name_data=HBuilder
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005544s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005785s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004734s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.031673s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12093909883' ) LIMIT 1   [ RunTime:0.009591s ]
+

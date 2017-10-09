@@ -1,0 +1,67 @@
+[ 2017-05-15T19:50:54+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006372s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007056s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004973s ]
+
+[ 2017-05-15T19:50:59+08:00 ] 127.0.0.1 /www/23qi/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004956s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005151s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006073s ]
+
+[ 2017-05-15T19:51:06+08:00 ] 127.0.0.1 /www/23qi/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008996s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009227s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006315s ]
+
+[ 2017-05-15T19:51:36+08:00 ] 127.0.0.1 /www/23qi/index.php/say
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008304s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008505s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004408s ]
+ERR: 无法加载模块:say
+
+[ 2017-05-15T19:53:13+08:00 ] 127.0.0.1 /www/23qi/index.php/index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005420s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005664s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004651s ]
+ERR: 无法加载模块:index
+
+[ 2017-05-15T19:53:27+08:00 ] 127.0.0.1 /www/23qi/index.php/index/say
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007964s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008262s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010993s ]
+ERR: 无法加载模块:index
+
+[ 2017-05-15T19:53:59+08:00 ] 127.0.0.1 /www/23qi/index.php/Index/say
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004737s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004913s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005356s ]
+
+[ 2017-05-15T19:54:48+08:00 ] 127.0.0.1 /www/23qi/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007051s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007328s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006429s ]
+

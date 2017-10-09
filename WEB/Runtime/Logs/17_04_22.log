@@ -1,0 +1,81 @@
+[ 2017-04-22T14:58:41+08:00 ] 127.0.0.1 /www/23qi/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006035s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006660s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006270s ]
+ERR: 无法加载模块:User
+
+[ 2017-04-22T14:58:52+08:00 ] 127.0.0.1 /www/23qi/index.php/User
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006179s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006517s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004756s ]
+ERR: 无法加载模块:User
+
+[ 2017-04-22T14:59:46+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001516s ]
+
+[ 2017-04-22T15:00:17+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+
+[ 2017-04-22T15:01:13+08:00 ] 127.0.0.1 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003140s ]
+
+[ 2017-04-22T15:01:17+08:00 ] 127.0.0.1 /www/23qi/index.php/User
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003803s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004005s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+
+[ 2017-04-22T15:02:31+08:00 ] 127.0.0.1 /www/23qi/index.php/User
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001848s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002088s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001395s ]
+
+[ 2017-04-22T15:02:33+08:00 ] 127.0.0.1 /www/23qi/index.php/User
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001616s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001787s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+
+[ 2017-04-22T15:02:34+08:00 ] 127.0.0.1 /www/23qi/index.php/User
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001808s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001995s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+
+[ 2017-04-22T15:03:31+08:00 ] 127.0.0.1 /www/23qi/index.php/User/summ
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005031s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005302s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004854s ]
+
+[ 2017-04-22T15:03:40+08:00 ] 127.0.0.1 /www/23qi/index.php/User/summ
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001648s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001828s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+

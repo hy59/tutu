@@ -1,0 +1,17 @@
+[ 2017-07-24T15:08:20+08:00 ] 219.229.128.74 /www/23qi/index.php/App/get_topic?t=0.4789337699767202&package_name_data=undefined
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006933s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007801s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004333s ]
+SQL: SHOW COLUMNS FROM `topic` [ RunTime:0.069562s ]
+SQL: SELECT * FROM `topic` ORDER BY id desc  [ RunTime:0.007669s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.022513s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.007838s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.000967s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.000936s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.000921s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='12345678908' ) LIMIT 1   [ RunTime:0.000840s ]
+SQL: SELECT * FROM `user` WHERE ( `phone`='null' ) LIMIT 1   [ RunTime:0.000798s ]
+

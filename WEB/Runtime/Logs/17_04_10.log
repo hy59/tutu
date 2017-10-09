@@ -1,0 +1,8 @@
+[ 2017-04-10T19:32:35+08:00 ] 219.229.128.93 /www/23qi/index.php/App/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007095s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008226s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005210s ]
+

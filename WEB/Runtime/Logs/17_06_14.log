@@ -1,0 +1,20 @@
+[ 2017-06-14T14:26:58+08:00 ] 219.229.128.74 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004335s ]
+
+[ 2017-06-14T14:28:24+08:00 ] 219.229.128.74 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+
+[ 2017-06-14T14:54:00+08:00 ] 219.229.128.74 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008675s ]
+
+[ 2017-06-14T14:54:10+08:00 ] 219.229.128.74 /www/23qi/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002228s ]
+
