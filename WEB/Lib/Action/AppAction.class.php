@@ -86,9 +86,20 @@ public function get_topic(){
 }
 
 /**
-*
+*图书检索，从数据库获取数据
 */
-
+public function search_book(){
+  $arr = M('book_info')->order('booktitle')->select();
+  foreach ($arr as $key => $value) {
+    $arr[$key]['ISBN'] = $ISBN;
+    $arr[$key]['booktitle'] = $booktitle;
+    $arr[$key]['authors'] = $authors;
+    $arr[$key]['pub_house'] = $pub_house;
+    $arr[$key]['pub_date'] = $pub_date;
+    $arr[$key]['call_num'] = $call_num;
+  }
+  echo json_encode($arr);
+}
 
 
 

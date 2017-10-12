@@ -133,8 +133,8 @@ Class UserAction extends Action{
 
 
 
-
-public function summ{
+}
+public function summ(){
 
    $total = 80;
    $sum = $total > 100 ? '成功':'失败';
