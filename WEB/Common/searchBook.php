@@ -40,6 +40,7 @@
             echo "<td>".$row['pub_date']."</td>";
             echo "<td>".$row['pub_house']."</td>";
             echo "<td>".$row['call_null']."</td>";
+            echo "</tr>";
         }
         echo "</table>";
 
