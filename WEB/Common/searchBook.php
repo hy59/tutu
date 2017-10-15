@@ -18,7 +18,7 @@
         //选择数据库
         mysql_select_db($db) or die("unable to select database!");
         //构建一个查询
-        $query = "SELECT * FROM book_info WHERE booktitle = '.$key.'";
+        $query = "SELECT * FROM book_info WHERE booktitle = '$key'";
         //执行查询
         $result = mysql_query($query) or die("Error in query: $query");
 
