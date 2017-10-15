@@ -8,7 +8,7 @@
         $host = "localhost";
         $user = "root";
         $pass = "RSdyxjh2333";
-        $db = "book_info";
+        $db = "TUTU";
 
         //取得表单中的值
         $key = $_GET['key'];
@@ -18,8 +18,7 @@
         //选择数据库
         mysql_select_db($db) or die("unable to select database!");
         //构建一个查询
-        $query = sprintf("SELECT * FROM book_info WHERE booktitle = '%s'",
-        mysql_real_escape_string($key));
+        $query = "SELECT * FROM book_info WHERE booktitle = '.$key.'";
         //执行查询
         $result = mysql_query($query) or die("Error in query: $query");
 
