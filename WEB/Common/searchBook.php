@@ -1,5 +1,5 @@
 <?php
-    if(!isset($_post['submit'])){
+    if(!isset($_GET['submit'])){
         echo "ERROR";
     }else{
         
@@ -11,7 +11,7 @@
         $db = "book_info";
 
         //取得表单中的值
-        $key = $_POST['key'];
+        $key = $_GET['key'];
 
         //打开数据库连接
         $connection = mysql_connect($host, $user, $pass) or die("unable to connect!");
