@@ -14,13 +14,15 @@
         $key = $_GET['key'];
 
         //打开数据库连接
-        $connection = mysql_connect($host, $user, $pass) or die("unable to connect!");
+        $con = mysql_connect($host, $user, $pass) or die("unable to connect!");
         //选择数据库
-        mysql_select_db($db) or die("unable to select database!");
+        mysql_select_db($db, $con) or die("unable to select database!");
+        //设置字符集
+        mysql_set_charset("utf8");
         //构建一个查询
         $query = "SELECT * FROM book_info WHERE booktitle = '$key'";
         //执行查询
-        $result = mysql_query($query) or die("Error in query: $query");
+        $result = mysql_query($query, $con) or die("Error in query: $query");
 
         echo "<table border='1'>
               <tr>
@@ -29,22 +31,24 @@
               <th>authors</th>
               <th>pub_house</th>
               <th>pub_date</th>
-              <th>call_null</th>
+              <th>call_num</th>
+              <th>price</th>
               </tr>";
 
         while($row = mysql_fetch_array($result)){
             echo "<tr>";
-            echo "<td>".$row['ISBN']."</td>";
-            echo "<td>".$row['booktitle']."</td>";
-            echo "<td>".$row['authors']."</td>";
-            echo "<td>".$row['pub_date']."</td>";
-            echo "<td>".$row['pub_house']."</td>";
-            echo "<td>".$row['call_null']."</td>";
+            echo "<td>" . $row['ISBN'] . "</td>";
+            echo "<td>" . $row['booktitle'] . "</td>";
+            echo "<td>" . $row['authors'] . "</td>";
+            echo "<td>" . $row['pub_date'] . "</td>";
+            echo "<td>" . $row['pub_house'] . "</td>";
+            echo "<td>" . $row['call_num'] . "</td>";
+            echo "<td>" . $row['price'] . "</td>";
             echo "</tr>";
         }
         echo "</table>";
 
-        mysql_close($connection);
+        mysql_close($con);
 
       
     }
