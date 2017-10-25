@@ -6,6 +6,7 @@ Class AppAction extends Action {
 public function register(){
    $phone = $_GET['phone_data'];
    $password = md5($_GET['password_data']);
+   $student_id = $_GET['student_id_data'];
   //  先判断这个手机号是否已将注册过,单条查找
    $dd = M('user')->where("`phone`='$phone'")->find();
    if ($dd) {
@@ -14,6 +15,7 @@ public function register(){
    }
    $arr['phone'] = $phone;
    $arr['password'] = $password;
+   $arr['student_id'] = $student_id;
    $re = M('user')->add($arr);
    echo $re;
 }
